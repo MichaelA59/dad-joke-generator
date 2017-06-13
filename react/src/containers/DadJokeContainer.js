@@ -39,7 +39,7 @@ class DadJokeContainer extends Component {
         <div className='row'>
           <div className='columns small-12 text-center small-centered'>
             <h4 className='joke-cta' onClick={this.handleRandomJoke}>
-              Click here for a Random Joke!
+              Click here for a Random Dad Joke!
             </h4>
           </div>
         </div>
