@@ -47,7 +47,7 @@ class DadJokeContainer extends Component {
           <div className='columns small-12 text-center small-centered'>
             <div className='joke-card'>
               <div className='joke-text'>
-                <h4>{this.state.selectedDadJoke.joke}</h4>
+                <h4 className='single-joke text-center'>{this.state.selectedDadJoke.joke}</h4>
               </div>
             </div>
           </div>
